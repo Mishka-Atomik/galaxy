@@ -1,0 +1,19 @@
+body {
+	background: linear-gradient(rgba(0,0,0,.6),rgba(0,0,0,.6)), url(bg.jpg);
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: sans-serif;
+}
+
+.container {
+
+	height: 390px;
+	width: 420px;
+	text-align: center;
+	margin-top:230px;
+	justify-content: center;
+	align-items: center;
+
+}
